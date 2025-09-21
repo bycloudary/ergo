@@ -1,4 +1,4 @@
-module github.com/bycloudary/ergo
+module github.com/ergochat/ergo
 
 go 1.25
 
